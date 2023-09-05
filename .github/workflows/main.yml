@@ -201,7 +201,7 @@ jobs:
           cache-name: sdk
         with:
           path: ./depends/sdk-sources
-          key: ${{ matrix.name }}-${{ env.cache-name }}-${{ hashFiles('.github/workflows/ci.yml') }}
+          key: ${{ matrix.name }}-${{ env.cache-name }}-${{ hashFiles('.github/workflows/main.yml') }}
 
       - name: Install SDK
         if: ${{ matrix.sdk }}
