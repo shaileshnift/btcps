@@ -10,6 +10,7 @@ BitcoinPoS - Real Bitcoin transitioned to Proof of Stake at block 301448.
 All BTCS have been mined using real BTC keys.
 
 BitcoinPoS (BTCS)
+
 Bitcoin with Proof of Stake (PoS)
 Starting at block 301448
 
